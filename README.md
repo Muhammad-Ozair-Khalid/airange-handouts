@@ -1,8 +1,17 @@
-# AIRANGE — Learning Nine
+# AIRANGE — Player Files
+
+## BAZOOKA
+
+[Play BAZOOKA](https://airange.aucssociety.com/challenges?challenge=765810e1-9efe-43f3-bb08-207a70edb7cb) · [Download player ZIP](https://github.com/Muhammad-Ozair-Khalid/airange-handouts/releases/download/bazooka-v1/bazooka-player.zip)
+
+Static Linux x86-64 reverse engineering. **AI assistance is allowed for BAZOOKA.**
+Flag format: `AIRANGE{...}`. [Learn reverse engineering at pwn.college](https://pwn.college/program-security/reverse-engineering).
+
+## Learning Nine
 
 Nine medium, self-contained challenges for the individual university CTF. Each challenge has a player ZIP, original art, external learning resources, and the strict flag format `AIRANGE{...}`.
 
-AI assistants are prohibited by the competition honor rule. This is an honor-based restriction; offline files cannot monitor participant devices.
+For the nine challenges below, AI assistants are prohibited by the competition honor rule. This is an honor-based restriction; offline files cannot monitor participant devices. BAZOOKA has its own AI-allowed rule above.
 
 | Category | Challenge | Player files | Learning notes |
 |---|---|---|---|
